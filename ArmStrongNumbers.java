@@ -3,7 +3,7 @@ package com.jts;
 public class ArmStrongNumbers {
 
 	public static void main(String[] args) {
-		int n= 155;
+		int n= 156;
 		int temp = n;
 		int r,sum=0;
 		
